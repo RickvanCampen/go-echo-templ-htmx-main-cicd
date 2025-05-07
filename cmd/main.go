@@ -1,9 +1,9 @@
 package main
 
 import (
-	"go-echo-templ-thmx-main-cicd/db"
-	"go-echo-templ-thmx-main-cicd/handlers"
-	"go-echo-templ-thmx-main-cicd/services"
+	"github.com/RickvanCampen/go-echo-templ-htmx-main-cicd/db"
+	"github.com/RickvanCampen/go-echo-templ-htmx-main-cicd/handlers"
+	"github.com/RickvanCampen/go-echo-templ-htmx-main-cicd/services"
 
 	"github.com/gorilla/sessions"
 	"github.com/labstack/echo-contrib/session"
