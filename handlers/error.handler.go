@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"net/http"
 
-	"go-echo-templ-thmx-main-cicd/views/errors_pages"
+	"github.com/RickvanCampen/go-echo-templ-htmx-main-cicdviews/errors_pages"
 
 	"github.com/a-h/templ"
 	"github.com/labstack/echo/v4"

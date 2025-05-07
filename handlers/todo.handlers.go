@@ -7,8 +7,8 @@ import (
 	"strconv"
 	"strings"
 
-	"go-echo-templ-thmx-main-cicd/services"
-	"go-echo-templ-thmx-main-cicd/views/todo_views"
+	"github.com/RickvanCampen/go-echo-templ-htmx-main-cicd/services"
+	"github.com/RickvanCampen/go-echo-templ-htmx-main-cicd/todo_views"
 
 	"github.com/labstack/echo-contrib/session"
 	"github.com/labstack/echo/v4"

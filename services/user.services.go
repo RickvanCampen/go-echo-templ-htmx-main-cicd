@@ -1,7 +1,7 @@
 package services
 
 import (
-	"go-echo-templ-thmx-main-cicd/db"
+	"github.com/RickvanCampen/go-echo-templ-htmx-main-cicd/db"
 
 	"golang.org/x/crypto/bcrypt"
 )
